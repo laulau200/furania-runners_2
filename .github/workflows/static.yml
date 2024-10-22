@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="page 1">
+<meta name="keywords" content="HTML, CSS, Javascript">
+<meta name="author" content="Laurent DEMAZY">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="technicien informatique, administrateur réseaux, windows, linux">
+<meta name="author" content="Laurent DEMAZY">
+<meta http-equiv="refresh" content="300">
+<!-- lien vers feuille de style -->
+<title>furania Runners</title>
+</head>
+<body>
+
+<header>
+<h1>Vive la course a pied ! </h1>
+<br>
+<br>
+
+
+</header>
+<main>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+<br>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+</main>
+<footer>
+<p>page facebook</p>
+<a href:"https://www.facebook.com/profile.php?id=61552105517489">Les Furania Runners</a>
+<p>Webmaster : Laurent DEMAZY <a href:"www.ldemazy.com"></a>
+
+
+</footer>
+</body>
+</html>
